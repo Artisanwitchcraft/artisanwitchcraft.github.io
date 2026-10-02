@@ -2,9 +2,10 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: 'projects'}
+- {name: 'Projects', url: ''}
 - {name: 'Art',     url: 'art'}
 - {name: 'About',    url: 'about'}
+- {name: 'contact',    url:'contact'}
 - {name: 'CV',    url: 'cv'}
 
 #-------------------------------
@@ -12,15 +13,20 @@ menu:
 
 projects:
 - {name: 'Wind Energy',   url: 'proj-1'}
-- {name: 'Linda's 0xygen bag',   url: 'proj-2'}
+- {name: '0xygen Bag',   url: 'proj-2'}
+
+#-------------------------------
+#Arts Section
+art:
+- {name: 'Cardboard Wrench',    url: 'wrench'}
 
 #-------------------------------
 # Contact Section
 
 social:
 - {icon: 'github',    link: 'https://github.com/artisanwitchcraft'}
-#- {icon: 'linkedin',  link: 'https://linkedin.com/in/'}
-#- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'linkedin',  link: 'https://linkedin.com/in/'}
+- {icon: 'envelope',  link: 'mailto:hadleighnunes@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 

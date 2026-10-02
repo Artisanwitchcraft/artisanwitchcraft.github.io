@@ -3,7 +3,6 @@ layout: page
 title: CV
 permalink: /cv
 ---
-
-# Portfolio Jekyll Theme
+# Curriculum vitae
 
 Nothing here yet
