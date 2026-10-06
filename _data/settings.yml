@@ -5,7 +5,7 @@ menu:
 - {name: 'Projects', url: ''}
 - {name: 'Art',     url: 'art'}
 - {name: 'About',    url: 'about'}
-- {name: 'Contact',    url:'contact'}
+- {name: 'Contact',    url: 'contact'}
 - {name: 'CV',    url: 'cv'}
 
 #-------------------------------
@@ -15,6 +15,7 @@ projects:
 - {name: 'Wind Energy',   url: 'AW'}
 - {name: '0xygen Bag',   url: 'E4H'}
 - {name: 'Makerspace Education',    url: 'LES'}
+- {name: 'Scaredy Plant',    url: 'plant'}
 
 #-------------------------------
 #Arts Section

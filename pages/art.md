@@ -1,6 +1,5 @@
 ---
-layout: default
+layout: art
 title: Art
 permalink: /art
 ---
-{% include art.html %}

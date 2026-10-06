@@ -2,5 +2,8 @@
 layout: post
 title: 'Wind Energy'
 ---
-I worked for a wind energy startup.
-{% include image.html image="projects/proj-1/AWmockup1.png" %}
+My first job after college was as a mechanical engineer for a wind energy startup. I started as a remote intern in the summer of 2021, ended up loving the work, and continued there through the design and production of the first test prototype for model validation. 
+
+{% include image.html image="projects/AW1/AWfield1.png" %}
+
+Here I am during the installation of the test spoiler at Windward Engineering test site in Utah. 
