@@ -5,15 +5,16 @@ menu:
 - {name: 'Projects', url: ''}
 - {name: 'Art',     url: 'art'}
 - {name: 'About',    url: 'about'}
-- {name: 'contact',    url:'contact'}
+- {name: 'Contact',    url:'contact'}
 - {name: 'CV',    url: 'cv'}
 
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: 'Wind Energy',   url: 'proj-1'}
-- {name: '0xygen Bag',   url: 'proj-2'}
+- {name: 'Wind Energy',   url: 'AW'}
+- {name: '0xygen Bag',   url: 'E4H'}
+- {name: 'Makerspace Education',    url: 'LES'}
 
 #-------------------------------
 #Arts Section
@@ -25,7 +26,7 @@ art:
 
 social:
 - {icon: 'github',    link: 'https://github.com/artisanwitchcraft'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/'}
+- {icon: 'linkedin',  link: 'https://linkedin.com/in/hadleigh-nunes-684bba149'}
 - {icon: 'envelope',  link: 'mailto:hadleighnunes@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
