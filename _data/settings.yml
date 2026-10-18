@@ -21,6 +21,7 @@ projects:
 #-------------------------------
 #Arts Section
 art:
+- {name: 'Paper World',    url: 'paper_world'}
 - {name: 'Cardboard Wrench',    url: 'wrench'}
 
 #-------------------------------
