@@ -3,7 +3,7 @@ layout: post
 title: 'Sticky note cranes'
 --- 
 
-A Post-It™ (aka sticky note) is a small piece of paper with a strip (around ½” to ¾” wide) of gentle adhesive along the top edge of its back side. Typically brightly colored and approximately 3” square (± 1/16”), the paper is high enough quality to write on with Sharpie™ (or other alcohol-based marker). 
+A Post-It™ (aka sticky note) is a small piece of paper with a strip (around $$ \frac {1}{2}" $$ to $$ \frac {3}{4}" $$ wide) of gentle adhesive along the top edge of its back side. Typically brightly colored and approximately $$ 3" $$ square ( $$ ± \frac {1}{16} ” $$ ), the paper is high enough quality to write on with Sharpie™ (or other alcohol-based marker). 
 It is the perfect container for a single piece of information. 
 
 {% include image.html image="projects/cranes/cranes1.jpg" %}

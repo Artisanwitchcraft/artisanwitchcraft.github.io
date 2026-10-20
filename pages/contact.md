@@ -4,6 +4,6 @@ title: Contact
 permalink: /contact
 ---
 
-# Contact
+## Contact
 
 You can contact me [through my email](mailto:hadleighnunes@gmail.com). 

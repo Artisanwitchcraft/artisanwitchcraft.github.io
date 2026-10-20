@@ -28,7 +28,7 @@ art:
 # Contact Section
 
 social:
-- {icon: 'github',    link: 'https://github.com/artisanwitchcraft'}
+#- {icon: 'github',    link: 'https://github.com/artisanwitchcraft'}
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/hadleigh-nunes-684bba149'}
 - {icon: 'envelope',  link: 'mailto:hadleighnunes@gmail.com'}
 
