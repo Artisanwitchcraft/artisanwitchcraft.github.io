@@ -13,7 +13,7 @@ Bachelor of Science in Engineering, E: Sustainable Systems
 
 **Programming:**  MATLAB •  Python • GitHub • ANSYS Journals
 
-**Fabrication:** Sheet metal • Manual mill • CNC machining • Laser cutter • FDM printing • Shop tools • Sewing machine • Composites 
+**Fabrication:** Sheet metal • Manual mill • CNC machining • Laser cutter • FDM printing • Shop tools • Sewing machine • Composites • Carpentry
 
 ## Selected experience
 
